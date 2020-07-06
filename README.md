@@ -5,10 +5,6 @@ It won't hold any heavy stuff like mobile phone, HD cameras, etc, but some simpl
 <img src="https://github.com/fdominguezr/gimbal-with-2-servos/blob/master/Franciscodr_Gimbal_MicroBit_test1.gif" alt="A simple video showing the gimbal working" >
 </p>
 
-<p align="center">
-  ![A simple video showing the gimbal working](https://github.com/fdominguezr/gimbal-with-2-servos/blob/master/Franciscodr_Gimbal_MicroBit_test1.gif)</div> 
-</p>
-
 Take care of servos, better with metal gear ("MG").
 4 x 1.5 V AA batteries or 5 x 1.2 V AA batteries (6 VDC) should be enough, but don't expect a very smooth work, as servos usually requiere quite enough current. Ni-Cd or Li-ion batteries is better.
 
