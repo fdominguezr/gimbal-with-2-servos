@@ -1,7 +1,7 @@
 This is a prof of concept for a simple gimbal stabilizer with a Micro:bit board and two servos.
 It won't hold any heavy stuff like mobile phone, HD cameras, etc, but some simple camera small should be fine.
 
-![]Franciscodr_Gimbal_MicroBit_test1.gif)
+![A simple video showing the gimbal working]https://github.com/fdominguezr/gimbal-with-2-servos/blob/master/Franciscodr_Gimbal_MicroBit_test1.gif)
 
 
 ![]Franciscodr_Gimbal_MicroBit_test1.gif)
