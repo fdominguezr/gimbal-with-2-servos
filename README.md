@@ -1,3 +1,8 @@
+This is a prof of concept for a simple gimbal stabilizer with a Micro:bit board and two servos.
+It won't hold any heavy stuff like mobile phone, HD cameras, etc, but some simple camera small should be fine.
+
+Take care of servos, better with metal gear ("MG").
+4 x 1.5 V AA batteries or 5 x 1.2 V AA batteries (6 VDC) should be enough, but don't expect a very smooth work, as servos usually requiere quite enough current. Ni-Cd or Li-ion batteries is better.
 
 > Open this page at [https://fdominguezr.github.io/gimbal-with-2-servos/](https://fdominguezr.github.io/gimbal-with-2-servos/)
 
