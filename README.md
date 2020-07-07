@@ -8,6 +8,12 @@ It won't hold any heavy stuff like mobile phone, HD cameras, etc, but some simpl
 Be careful with the servos, better with metal gear ("MG"), but the consume more.
 4 x 1.5 V AA batteries or 5 x 1.2 V AA batteries (6 VDC) should be enough, but don't expect a very smooth work, as servos usually requiere quite enough current. Ni-Cd or Li-ion batteries is better.
 
+Some adjustments can be made by software, specially:
+
+Offset: if the main arm or the stable platform are not perfectly aligned, you can move a bit each servo's leaver, but a finer way is with the x and z offsets that are included in the software.
+You can test the level by pressing the A button.
+
+
 See it working in my twitter here: https://twitter.com/Franciscodr/status/1279913283710070785
 
 > To see the code, open this page at [https://fdominguezr.github.io/gimbal-with-2-servos/](https://fdominguezr.github.io/gimbal-with-2-servos/)
